@@ -1,8 +1,8 @@
 import "./App.css";
-// import ShowList from "./components/ShowList";
+import ShowList from "./components/ShowList";
 
 function App() {
-	// return <ShowList />;
+	return <ShowList />;
 }
 
 export default App;
