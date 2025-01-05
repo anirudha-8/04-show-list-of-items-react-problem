@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://04-show-list-react-problem.vercel.app/)
+## ==> [🔥Live Demo](https://04-show-list-of-items-react-problem.vercel.app/)
 
 Welcome to the **fourth problem** of the React 30+ Practical Problems series! In this challenge, we will create a dynamic component that displays a list of items.
 
@@ -21,25 +21,25 @@ Create a React application that features a `ShowList` component. The component c
 1. **Clone the Submodule Repository:**
 
     ```bash
-    git clone https://github.com/anirudha-8/04-show-list-react-problem.git
+        git clone https://github.com/anirudha-8/04-show-list-of-items-react-problem.git
     ```
 
 2. Navigate to the Project Directory:
 
     ```bash
-    cd 04-show-list-react-problem
+        cd 04-show-list-of-items-react-problem
     ```
 
 3. Install Dependencies:
 
     ```bash
-    npm install
+        npm install
     ```
 
 4. Start the Development Server:
 
     ```bash
-    npm run dev
+        npm run dev
     ```
 
 ---
@@ -47,7 +47,9 @@ Create a React application that features a `ShowList` component. The component c
 ## 📚 Learning Objectives
 
 - Understand how to use the `map()` function to iterate over arrays in React.
+
 - Learn how to dynamically create and display lists using JSX.
+
 - Familiarize yourself with adding unique keys for list items to optimize rendering.
 
 ---
@@ -57,7 +59,9 @@ Create a React application that features a `ShowList` component. The component c
 Feel free to contribute improvements or alternative solutions! Here’s how:
 
 - Fork the repository.
+
 - Create a new branch for your feature or fix.
+
 - Submit a pull request for review.
 
 ---
