@@ -15,7 +15,11 @@ const ShowList = () => {
 		<div>
 			<ul>
 				{items.map((item, index) => {
-					return <li key={index}>{item}</li>;
+					return (
+						<li key={index}>
+							{++index}. {item}
+						</li>
+					);
 				})}
 			</ul>
 		</div>
